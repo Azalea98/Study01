@@ -8,7 +8,7 @@ public class ProjectDiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectDiApplication.class, args);
-		System.out.println();
+		System.out.println("?????");
 	}
 
 }
